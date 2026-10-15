@@ -1,5 +1,5 @@
-# Movie-Recommendation-System-using-NLP
-# Movie Recommendation System
+# Movie-Recommendation-System
+
 
 ## About the Project
 
